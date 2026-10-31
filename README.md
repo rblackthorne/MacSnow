@@ -11,9 +11,13 @@ This utility has been built from the ground up to be ultra-lean and energy-effic
 Key Features
 
 • High-Quality Crystal Geometries: Features randomized, mathematically generated 6-pointed star and needle crystal snowflake designs that slowly rotate and tumble as they fall.
+
 • GPU-Accelerated Rendering: Utilizes an optimized vector symbol caching architecture. Complex snowflake shapes are drawn exactly once into your graphics memory on launch and transformed using hardware matrices, keeping CPU overhead down to a negligible 0%–1%.
+
 • Seamless Multi-Display Support: Automatically detects your monitor setup and spawns transparent, click-through animation canvases across all connected displays.
+
 • Interactive Control Center: Includes a dedicated, floating configuration panel to customize your snowfall in real time:
+
 	• Start/Stop Toggle: Instantly activate the snowfall or halt processing to clear graphics memory completely.
 	• Velocity Slider: Seamlessly scale the storm's velocity from a tranquil, creeping drift up to a dense, heavy gale.
 	• Flake Scale Slider: Dynamically resize the flakes from a fine, subtle winter mist up to 2x larger, fluffy crystals.
