@@ -1,3 +1,4 @@
+![alt text](/MacSnow-screenshot.jpg)
 
 MacSnow v1.0.0 — Holiday Release ❄️
 
