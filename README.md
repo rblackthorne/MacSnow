@@ -1,9 +1,12 @@
-![alt text](/MacSnow-screenshot.jpg)
+![alt text](/MacSnow.png)
 
 MacSnow v1.0.0 — Holiday Release ❄️
 
 Welcome to the initial launch of MacSnow, a lightweight, high-performance holiday utility designed to bring a peaceful winter landscape directly to your macOS desktop. Inspired by classic vintage screen savers but re-engineered from scratch for modern hardware, MacSnow lets highly detailed vector snowflakes drift gently across your screen and float over your open windows.
+
 This utility has been built from the ground up to be ultra-lean and energy-efficient so you can safely run it in the background all holiday season without draining your battery or spinning your Mac's fans.
+
+![alt text](/MacSnow-screenshot.jpg)
 
 Key Features
 
